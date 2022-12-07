@@ -1,0 +1,7 @@
+prefix         = "hashicafe"
+location       = "centralus"
+env            = "dev"
+department     = "PlatformEng"
+owner          = "web.developer"
+packer_bucket  = "ubuntu20-nginx"
+packer_channel = "development"

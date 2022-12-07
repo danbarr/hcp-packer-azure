@@ -1,0 +1,7 @@
+az_region = "centralus"
+az_resource_group = "MyResourceGroup" # Must already exist
+az_image_gallery = "MyImageGallery"   # Must already exist
+az_subscription_id = "YOUR_SUBSCRIPTION_ID"
+department = "PlatformEng"
+owner = "image.engineer"
+prefix = "hashicafe"
