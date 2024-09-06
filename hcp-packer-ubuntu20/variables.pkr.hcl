@@ -20,13 +20,13 @@ variable "az_subscription_id" {
 }
 
 variable "department" {
-  description = "A value for the \"dept\" tag."
+  description = "Value for the department tag."
   type        = string
   default     = "PlatformEng"
 }
 
 variable "owner" {
-  description = "A value for the \"owner\" tag."
+  description = "Value for the owner tag."
   type        = string
   default     = "image.engineer"
 }
